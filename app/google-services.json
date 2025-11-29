@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373366823530",
+    "project_id": "uber-elbalad",
+    "storage_bucket": "uber-elbalad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373366823530:android:c90b4956b10da4e42dc813",
+        "android_client_info": {
+          "package_name": "com.uberelbalad.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAowRRKN-M8a3Vi9d7l5UpgW9FlChmvwdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
